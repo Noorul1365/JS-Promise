@@ -16,7 +16,7 @@
 //     .then((results) => console.log(results))
 //     .catch((error) => console.error("Rejected with:", error));
 
-// ----------------------------------------------------------------------------
+// ----------------------------------------------------------------------------------
 
 // Fetching Multiple APIs Using Promise.all()
 
